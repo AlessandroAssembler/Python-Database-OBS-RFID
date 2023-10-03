@@ -1,5 +1,5 @@
 # Python-Database-OBS-RFID
-Brief implementation of some useful functions and object orientd programming in Python for data analysis on OBS and RFID Dataset
+Brief implementation on how to build a system of nested functions in Python for data analysis on OBS and RFID Dataset
 The data set contains observational and wearable sensors data collected in a group of 20 Guinea baboons living in an enclosure of a Primate Center in France, between June 13th 2019 and July 10th 2019. These data were analyzed and published in the paper V. Gelardi, J. Godard, D. Paleressompoulle, N. Claidière, A. Barrat, “Measuring social networks in primates: wearable sensors vs. direct observations”, Proc. R. Soc. A 476:20190737 (2020).
 ## OBS DATA
 The file OBS_data.txt contains all the behavioral events registered by an observer, with 7 columns:
